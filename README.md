@@ -77,4 +77,4 @@ If you have any questions or feedback, feel free to contact us at [tarunthakurel
 Thank you for using the Age Calculator using JavaScript!
 
 ---
-© 2023 Mr. Tarun
+© 2025 Mr. Tarun
